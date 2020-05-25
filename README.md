@@ -1,4 +1,4 @@
-# vue-3d-model
+﻿# vue-3d-model  biggodZuo
 
 <p align="center">
     <a href="https://www.npmjs.com/package/vue-3d-model"><img src="https://img.shields.io/npm/v/vue-3d-model.svg" alt="Version"></a>
